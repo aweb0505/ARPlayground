@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2771020010
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 42ae6191c5fb15deb9e917ab6b1854c0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/VR/Textures/MetaQuestTouchPro/controller_l_lo_Normal.png
+- Assets/Oculus/VR/Textures/MetaQuestTouchPro/controller_r_lo_Normal.png
+- Assets/Oculus/VR/Textures/OculusTouchForRift/touchController_albedo.png
+- Assets/Oculus/VR/Textures/MetaQuestTouchPro/controller_r_lo_BaseColor.png
+- Assets/Oculus/VR/Textures/MetaQuestTouchPro/controller_l_lo_BaseColor.png
+- Assets/Oculus/VR/Textures/MetaQuestTouchPro/batteryIndicatorTexture32.png
+Dependencies: []
